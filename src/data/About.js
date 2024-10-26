@@ -2,7 +2,7 @@ export const about = {
 	firstName: "Divyanshu",
 	lastName: "Singh",
 	gender: "male",
-	logo: "https://res.cloudinary.com/Divyanshu/image/upload/v1694897056/Portfolio/logo_ly8elg.png",
+	logo: "https://res.cloudinary.com/dvyd3h84t/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1729942019/vashu_byqhlh.png",
 	// primaryProfileImage:
 	// "https://res.cloudinary.com/Divyanshu/image/upload/v1694956988/Portfolio/image_23_1_ky1bkw.png",
 	// secondaryProfileImage:
@@ -23,5 +23,5 @@ export const about = {
 	resumeLink:
 		"https://drive.google.com/file/d/1DZgbC6o9evZqYWXafXsfw0zrDpRxR1Ez/view?usp=sharing",
 
-	hostedUrl: "https://DivyanshuSingh.vercel.app",
+	hostedUrl: "https://divyanshusingh.vercel.app/",
 };

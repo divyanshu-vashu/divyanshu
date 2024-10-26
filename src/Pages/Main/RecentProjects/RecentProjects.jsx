@@ -69,7 +69,7 @@ import memoji from "../../../data/assets/projMemoji.svg";
 import { useInView } from "framer-motion";
 import { about } from "../../../data/About";
 
-const categories = ["All", "Development", "Web Design", "Application", "Design", "Mobile", "Collaboration"];
+const categories = ["All", "Software Dev", "Web Dev","Machine Learning", "IoT/Arduino", "Other"];
 
 const RecentProjects = () => {
   const ref = useRef(null);

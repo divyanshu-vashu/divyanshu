@@ -1,3 +1,5 @@
+const categories = ["All", "Software Dev", "Web Dev","Machine Learning", "IoT/Arduino", "Other"];
+
 export const projects = [
 	{
 	  Github: "https://github.com/Divyanshu-Singh/todo-list",
@@ -6,7 +8,7 @@ export const projects = [
 	  ProjectLink: "https://meri-list.vercel.app",
 	  Techstack: "React, Bootstrap",
 	  Title: "Todo List",
-	  Category: "Development"  // Add this field
+	  Category: "Software Dev"  // Add this field
 	},
 	{
 	  Github: "https://github.com/Divyanshu-Singh/weather-check",
@@ -15,8 +17,26 @@ export const projects = [
 	  ProjectLink: "https://weath-check.vercel.app/",
 	  Techstack: "ReactJs, Tailwind CSS",
 	  Title: "Weather check",
-	  Category: "Web Design"  // Add this field
+	  Category: "Web Dev"  // Add this field
 	},
+	{
+		Github: "https://github.com/divyanshu-vashu/RoboticArm.git",
+		ImageUrl: "https://res.cloudinary.com/Divyanshu/image/upload/v1678196335/Portfolio/projects/tempchecknow.netlify.app__mac_book__macbookgrey_front-min_d9kxgq.png",
+		Library: "",
+		ProjectLink: "https://github.com/divyanshu-vashu/RoboticArm.git",
+		Techstack: "XML, Arduino",
+		Title: "Robotic Arm",
+		Category: "IoT/Arduino"  // Add this field
+	  },
+	  {
+		Github: "https://github.com/divyanshu-vashu/Wireless_RoboticHand.git",
+		ImageUrl: "https://res.cloudinary.com/Divyanshu/image/upload/v1678196335/Portfolio/projects/tempchecknow.netlify.app__mac_book__macbookgrey_front-min_d9kxgq.png",
+		Library: "OpenCV,",
+		ProjectLink: "https://github.com/divyanshu-vashu/Wireless_RoboticHand.git",
+		Techstack: "XML, Arduino,Python",
+		Title: "Wireless Robotics Hand",
+		Category: "IoT/Arduino"  // Add this field
+	  },
 	// Add more projects with their respective categories
   ];
   

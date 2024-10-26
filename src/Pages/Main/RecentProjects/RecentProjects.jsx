@@ -123,7 +123,7 @@ const RecentProjects = () => {
       <div className="grid grid-cols-1 gap-8 my-8 lg:grid-cols-2 xl:grid-cols-3 lg:gap-10 lg:m-8">
         {filteredProjects
           .reverse()
-          .slice(0, 3)
+          .slice(0, 6)
           .map((project, key) => (
             <ProjectCard
               key={key}

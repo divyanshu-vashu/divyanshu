@@ -1,28 +1,41 @@
 export const experience = [
 	{
-		companyName: "Stratmark Consulting",
+		companyName: "SpectoV",
 		companyLogo:
-			"https://res.cloudinary.com/Divyanshu/image/upload/v1696175985/Portfolio/exp/Untitled_design_6_d8u4nv.png",
-		jobRole: "Freelance",
-		duration: "Aug 2023 - Present",
-		techstack: ["MERN", "PWA", "AWS", "Tailwind CSS", "MUI", "Redux Toolkit"],
+			"https://res.cloudinary.com/dvyd3h84t/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1729970093/spectov_logo_dzmtyj.jpg",
+		jobRole: "Software Team Lead",
+		duration: "Mar 2024 - Sep 2024",
+		techstack: ["MERN", "Vercel", "Render", "Tailwind CSS", "Three.js", "Redux Toolkit"],
 		description: [
-			"Developed high-quality and fully-functional Web App and Web App Mockup as per the requirements.",
-			"Worked closely with the client to gather requirements, provide updates, and address feedback throughout the project.",
-			"Ensured the web app was fully responsive, making it accessible on various devices.",
-			"Leveraged GitHub Actions to define and automate CI/CD workflows directly within the GitHub repository.",
+			"Designed and managed a training program for focused on skill development, and taught Full-Stack and DSA.",
+			"Designed a project roadmap, assigned tasks to junior developers, and managed team meetings.",
+			"Developed and maintained the company website using the MERN stack and handled 3D design elements using Three.js.",
+			"Leveraged GitHub Actions to define and automate CI/CD workflows directly within the GitHub repository Also Setup DNS.",
 		],
 	},
 	{
-		companyName: "Codebell Technologies",
+		companyName: "EACCESS Telemedics",
 		companyLogo:
-			"https://res.cloudinary.com/Divyanshu/image/upload/v1694527181/Portfolio/exp/1686382464747_vc7glk.jpg",
-		jobRole: "Intern",
-		duration: "APR 2023 - MAY 2023",
-		techstack: ["HTML5", "Cascading Style Sheets (CSS)", "JavaScript"],
+			"https://res.cloudinary.com/dvyd3h84t/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1729970197/EACCESS_Telemedics_logo_aozfkg.png",
+		jobRole: "SDE Intern",
+		duration: "May 2024 - July 2024",
+		techstack: ["PHP","Laravel","HTML", "Cascading Style Sheets (CSS)", "JavaScript"],
 		description: [
-			"Implemented day to day design changes from Figma to live website.",
-			"Developed high-quality, responsive, and userfriendly website.",
+			"Revamped and optimized forms in Laravel, improving both aesthetics and backend functionality.",
+			"Conducted comprehensive data analysis using MySQL, providing actionable insights that informed key business decisions.",
+			"Changed the UI design of the interface and added animations to it.",
+		],
+	},
+	{
+		companyName: "Capable",
+		companyLogo:
+			"https://res.cloudinary.com/dvyd3h84t/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1729970536/Capabl_logo_ea7uki.png",
+		jobRole: "Intern",
+		duration: "June 2023 - Aug 2023",
+		techstack: ["HTML5", "Cascading Style Sheets (CSS)", "JavaScript","MongoDB"],
+		description: [
+			"Collaborated with designers to create clean and user-friendly interfaces and developed UI/UX features, enhancing user experience and design aesthetics.",
+			"Managed and optimized database operations by normalizing data across multiple tables and efficiently utilizing SQL joins to enhance query performance.",
 		],
 	},
 ];

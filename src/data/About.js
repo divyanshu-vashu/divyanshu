@@ -7,7 +7,7 @@ export const about = {
 	// "https://res.cloudinary.com/Divyanshu/image/upload/v1694956988/Portfolio/image_23_1_ky1bkw.png",
 	// secondaryProfileImage:
 	// "https://res.cloudinary.com/Divyanshu/image/upload/v1694690201/Portfolio/Untitled_design_2_sxfvbm.png",
-	email: "Divyanshu.work@gmail.com",
+	email: "vashusingh2004.jan@gmail.com",
 	shortDesc:
 		"An India-based freelancer who's into web development and open to work as a front-end developer.",
 	longDesc: [

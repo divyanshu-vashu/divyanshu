@@ -21,11 +21,11 @@ export const projects = [
 	},
 	{
 		Github: "https://github.com/divyanshu-vashu/RoboticArm.git",
-		ImageUrl: "https://res.cloudinary.com/Divyanshu/image/upload/v1678196335/Portfolio/projects/tempchecknow.netlify.app__mac_book__macbookgrey_front-min_d9kxgq.png",
+		ImageUrl: "https://res.cloudinary.com/dvyd3h84t/image/upload/c_thumb,w_200,g_face/v1729971044/roboarm_canjms.jpg",
 		Library: "",
 		ProjectLink: "https://github.com/divyanshu-vashu/RoboticArm.git",
 		Techstack: "XML, Arduino",
-		Title: "Robotic Arm",
+		Title: "Robotic Crane Controlled by App",
 		Category: "IoT/Arduino"  // Add this field
 	  },
 	  {

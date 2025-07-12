@@ -108,35 +108,19 @@ const About = () => {
 				<h2 className="hidden text-3xl font-extrabold lg:block xl:text-5xl heading">{about.firstName + " " + about.lastName}</h2>
 
 				<p className="my-3">
-					I'm an <span className="font-semibold">undergrad</span>, self taught
-					web developer from <span className="font-semibold">Bihar, India</span>.
-					I possess skilled talent and immense experience in creating and
-					maintaining visually appealing and user-friendly websites. I have
-					comprehensive knowledge of various web development technologies such
-					as{" "}
-					<span className="font-semibold">
-						HTML, CSS, JavaScript, MERN, Tailwind CSS, Firebase{" "}
-					</span>
-					and{" "}
-
-					<Link
-						tabIndex={4}
-						to="skills"
-						spy={true}
-						smooth={true}
-						className="py-1.5 lg:py-0.5 rounded-lg lg:rounded-full duration-300 cursor-pointer group"
-					>
-						<span className="text-sky-500 bg-left-bottom bg-gradient-to-r from-sky-100 to-sky-500 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out pb-0.5">
-							more
-						</span>
-					</Link>
-					.
+					Hey there! I'm <span className="font-semibold">Divyanshu</span> — a CSE (AI & Robotics) grad from VIT Chennai who's into building smart, scalable, and user-focused tech.
 				</p>
 
-				<p>
-					Overall, I guarantee the highest level of professionalism, technical
-					proficiency, and client satisfaction in every aspect of web
-					development.
+				<p className="my-3">
+					Whether it's backend systems with <span className="font-semibold">Golang</span> and <span className="font-semibold">PostgreSQL</span>, full-stack web apps with <span className="font-semibold">MERN</span>, or deploying stuff over <span className="font-semibold">Docker</span> and <span className="font-semibold">Azure</span>, I like getting my hands dirty and solving real problems. I've worked with teams at <span className="font-semibold">Appointy</span> and <span className="font-semibold">SpectoV</span> on everything from syncing Google Calendars to teaching dev skills and shipping production-ready code.
+				</p>
+
+				<p className="my-3">
+					I'm all about clean architecture, performance optimization, and a little sprinkle of AI where it makes sense. If it's a product that makes users go "damn, that's smooth" — I want to help build it.
+				</p>
+
+				<p className="my-3">
+					Let's connect if you're into good code, clean UIs, or just geeking out over tech.
 				</p>
 
 				<div className="flex gap-4">

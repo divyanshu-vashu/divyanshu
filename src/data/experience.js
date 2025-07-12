@@ -1,10 +1,22 @@
 export const experience = [
 	{
+		companyName: "Appointy Solutions",
+		companyLogo: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752299729/appointy_global_logo_rmt6tw.jpg",
+		jobRole: "SDE Intern",
+		duration: "Jan 2025 - Jul 2025",
+		techstack: ["Golang", "Cadence", "Redis", "PostgreSQL", "Docker", "gRPC", "GraphQL"],
+		description: [
+			"Designed a highly scalable, microservices-based notification system following a SaaS model.",
+			"Worked on resolving event sync issues between Google Calendar and Appointy Calendar by proposing a solution using Pub/Sub with ordering keys, Redis, and a long-running Cadence workflow.",
+			"Collaborated with cross-functional teams to implement and optimize backend services for high availability and performance."
+		]
+	},
+	{
 		companyName: "SpectoV",
 		companyLogo:
 			"https://res.cloudinary.com/dvyd3h84t/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1729970093/spectov_logo_dzmtyj.jpg",
 		jobRole: "Software Team Lead",
-		duration: "Mar 2024 - Sep 2024",
+		duration: "April 2024 - December 2024",
 		techstack: ["MERN", "Vercel", "Render", "Tailwind CSS", "Three.js", "Redux Toolkit"],
 		description: [
 			"Designed and managed a training program for focused on skill development, and taught Full-Stack and DSA.",

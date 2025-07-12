@@ -49,12 +49,11 @@ const Home = () => {
 					animate={{ y: 0, opacity: 1 }}
 					transition={animationPlayed ? {} : { duration: 2, delay: 4 }}
 				>
+					
 					<p className="w-full lg:w-2/3 mx-auto font-light">
-						An India-based{" "}
-						<span className="text-emerald-700">web developer</span> known for
-						crafting compelling digital experiences with responsive designs and
-						immersive UI/UX.
-					</p>
+                        B.Tech CSE (AI & Robotics) graduate from VIT Chennai with hands-on experience in <span className="text-emerald-700">full-stack development</span>, <span className="text-emerald-700">cloud deployment</span>,
+                        and <span className="text-emerald-700">AI-driven solutions</span>. 
+                    </p>
 
 					<div className="mt-2">
 						Wait, but{" "}

@@ -41,12 +41,7 @@ export const skills = [
 		skillName: "MongoDB",
 		major: true,
 	},
-	{
-		skillIcon:
-			"https://res.cloudinary.com/Sushain/image/upload/v1694530093/Portfolio/skills/pwa-icon_kqwk0u.svg",
-		skillName: "Web App",
-		major: true,
-	},
+	
 	{
 		skillIcon:
 			"https://res.cloudinary.com/Sushain/image/upload/v1674668115/Portfolio/skills/firebase_dwkgf4.png",
@@ -70,12 +65,7 @@ export const skills = [
 		skillName: "AWS S3",
 		major: true,
 	},
-	{
-		skillIcon:
-			"https://res.cloudinary.com/Sushain/image/upload/v1714556329/Portfolio/skills/redux_wi5dto.svg",
-		skillName: "Redux Toolkit",
-		major: true,
-	},
+	
 	{
 		skillIcon:
 			"https://res.cloudinary.com/Sushain/image/upload/v1674668117/Portfolio/skills/tw_nltigb.png",
@@ -121,4 +111,52 @@ export const skills = [
 		skillName: "Vercel",
 		major: true,
 	},
+	{
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325888/cadence_jt8t6n.png",
+		skillName: "Cadence",
+		major: true,
+	  },
+	{
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325888/golang_apcqds.png",
+		skillName: "Golang",
+		major: true,
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325888/docker_vviwl7.png",
+		skillName: "Docker",
+		major: true,
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325891/postgress_nwoupk.png",
+		skillName: "PostgreSQL",
+		major: true,
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325892/redis_q8t1fi.png",
+		skillName: "Redis"
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325891/grpc_dp2j1j.png",
+		skillName: "gRPC"
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325890/grapghql_ftacaa.png",
+		skillName: "GraphQL"
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325887/azure_rcwlug.jpg",
+		skillName: "Azure"
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325888/expo_rhgtr3.png",
+		skillName: "React Native"
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325893/websocket_sowxmk.png",
+		skillName: "WebSocket"
+	  },
+	  {
+		skillIcon: "https://res.cloudinary.com/dvyd3h84t/image/upload/v1752325894/yolo_mnkmaa.jpg",
+		skillName: "OpenCV"
+	  }
 ];
